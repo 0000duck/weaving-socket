@@ -1,0 +1,17 @@
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\UDTCommon.dll
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\UDTLibary.dll
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\Weave.Base.dll
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\Weave.Server.dll
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\Weave.Base.pdb
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\Weave.Server.pdb
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\weavingsocket\Example\二进制字节传输示例\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

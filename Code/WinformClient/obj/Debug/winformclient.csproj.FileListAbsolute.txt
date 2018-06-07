@@ -1,0 +1,14 @@
+d:\weavingsocket\Code\WinformClient\bin\Debug\winformclient.exe
+d:\weavingsocket\Code\WinformClient\bin\Debug\winformclient.pdb
+d:\weavingsocket\Code\WinformClient\bin\Debug\Weave.Base.dll
+d:\weavingsocket\Code\WinformClient\bin\Debug\Weave.TCPClient.dll
+d:\weavingsocket\Code\WinformClient\bin\Debug\Newtonsoft.Json.dll
+d:\weavingsocket\Code\WinformClient\bin\Debug\Weave.Base.pdb
+d:\weavingsocket\Code\WinformClient\bin\Debug\Weave.TCPClient.pdb
+d:\weavingsocket\Code\WinformClient\bin\Debug\Newtonsoft.Json.xml
+d:\weavingsocket\Code\WinformClient\obj\Debug\winformclient.csprojResolveAssemblyReference.cache
+d:\weavingsocket\Code\WinformClient\obj\Debug\winformclient.Form1.resources
+d:\weavingsocket\Code\WinformClient\obj\Debug\winformclient.Properties.Resources.resources
+d:\weavingsocket\Code\WinformClient\obj\Debug\winformclient.csproj.GenerateResource.Cache
+d:\weavingsocket\Code\WinformClient\obj\Debug\winformclient.exe
+d:\weavingsocket\Code\WinformClient\obj\Debug\winformclient.pdb

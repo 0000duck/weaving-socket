@@ -1,0 +1,13 @@
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\UDTCommon.dll
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\UDTLibary.dll
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\TCP服务测试.exe
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\TCP服务测试.pdb
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\Weave.Base.dll
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\Weave.Server.dll
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\Newtonsoft.Json.dll
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\Weave.Base.pdb
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\Weave.Server.pdb
+D:\weavingsocket\Code\TCP服务测试\bin\Debug\Newtonsoft.Json.xml
+D:\weavingsocket\Code\TCP服务测试\obj\Debug\TCP服务测试.csprojResolveAssemblyReference.cache
+D:\weavingsocket\Code\TCP服务测试\obj\Debug\TCP服务测试.exe
+D:\weavingsocket\Code\TCP服务测试\obj\Debug\TCP服务测试.pdb

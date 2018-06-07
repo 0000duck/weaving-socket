@@ -1,0 +1,11 @@
+d:\weavingsocket\Code\Weave.Server\obj\Debug\Weave.Server.csprojResolveAssemblyReference.cache
+d:\weavingsocket\Code\Weave.Server\bin\Debug\UDTCommon.dll
+d:\weavingsocket\Code\Weave.Server\bin\Debug\UDTLibary.dll
+d:\weavingsocket\Code\Weave.Server\bin\Debug\Weave.Server.dll
+d:\weavingsocket\Code\Weave.Server\bin\Debug\Weave.Server.pdb
+d:\weavingsocket\Code\Weave.Server\bin\Debug\Weave.Base.dll
+d:\weavingsocket\Code\Weave.Server\bin\Debug\Newtonsoft.Json.dll
+d:\weavingsocket\Code\Weave.Server\bin\Debug\Weave.Base.pdb
+d:\weavingsocket\Code\Weave.Server\bin\Debug\Newtonsoft.Json.xml
+d:\weavingsocket\Code\Weave.Server\obj\Debug\Weave.Server.dll
+d:\weavingsocket\Code\Weave.Server\obj\Debug\Weave.Server.pdb

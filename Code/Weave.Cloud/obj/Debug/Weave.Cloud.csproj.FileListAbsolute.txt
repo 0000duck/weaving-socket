@@ -1,0 +1,15 @@
+d:\weavingsocket\Code\Weave.Cloud\obj\Debug\Weave.Cloud.csprojResolveAssemblyReference.cache
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\UDTCommon.dll
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\UDTLibary.dll
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Weave.Cloud.dll
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Weave.Cloud.pdb
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Newtonsoft.Json.dll
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Weave.Base.dll
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Weave.Server.dll
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Weave.TCPClient.dll
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Weave.Base.pdb
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Weave.Server.pdb
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Weave.TCPClient.pdb
+d:\weavingsocket\Code\Weave.Cloud\bin\Debug\Newtonsoft.Json.xml
+d:\weavingsocket\Code\Weave.Cloud\obj\Debug\Weave.Cloud.dll
+d:\weavingsocket\Code\Weave.Cloud\obj\Debug\Weave.Cloud.pdb

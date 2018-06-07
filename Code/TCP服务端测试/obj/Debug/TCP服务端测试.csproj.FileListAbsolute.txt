@@ -1,0 +1,14 @@
+d:\weavingsocket\Code\TCP服务端测试\obj\Debug\TCP服务端测试.csprojResolveAssemblyReference.cache
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\UDTCommon.dll
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\UDTLibary.dll
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\TCP服务端测试.exe.config
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\TCP服务端测试.exe
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\TCP服务端测试.pdb
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\Weave.Base.dll
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\Weave.Server.dll
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\Newtonsoft.Json.dll
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\Weave.Base.pdb
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\Weave.Server.pdb
+d:\weavingsocket\Code\TCP服务端测试\bin\Debug\Newtonsoft.Json.xml
+d:\weavingsocket\Code\TCP服务端测试\obj\Debug\TCP服务端测试.exe
+d:\weavingsocket\Code\TCP服务端测试\obj\Debug\TCP服务端测试.pdb

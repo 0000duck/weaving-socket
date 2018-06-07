@@ -1,0 +1,9 @@
+D:\weavingsocket\Code\Weave.TCPClient\bin\Debug\Weave.TCPClient.dll
+D:\weavingsocket\Code\Weave.TCPClient\bin\Debug\Weave.TCPClient.pdb
+D:\weavingsocket\Code\Weave.TCPClient\bin\Debug\Weave.Base.dll
+D:\weavingsocket\Code\Weave.TCPClient\bin\Debug\Newtonsoft.Json.dll
+D:\weavingsocket\Code\Weave.TCPClient\bin\Debug\Weave.Base.pdb
+D:\weavingsocket\Code\Weave.TCPClient\bin\Debug\Newtonsoft.Json.xml
+D:\weavingsocket\Code\Weave.TCPClient\obj\Debug\Weave.TCPClient.csprojResolveAssemblyReference.cache
+D:\weavingsocket\Code\Weave.TCPClient\obj\Debug\Weave.TCPClient.dll
+D:\weavingsocket\Code\Weave.TCPClient\obj\Debug\Weave.TCPClient.pdb

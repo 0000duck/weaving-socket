@@ -1,0 +1,6 @@
+D:\weavingsocket\Code\Weave.Base\bin\Debug\Weave.Base.dll
+D:\weavingsocket\Code\Weave.Base\bin\Debug\Weave.Base.pdb
+D:\weavingsocket\Code\Weave.Base\bin\Debug\Newtonsoft.Json.dll
+D:\weavingsocket\Code\Weave.Base\bin\Debug\Newtonsoft.Json.xml
+D:\weavingsocket\Code\Weave.Base\obj\Debug\Weave.Base.dll
+D:\weavingsocket\Code\Weave.Base\obj\Debug\Weave.Base.pdb
